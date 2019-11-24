@@ -68,6 +68,7 @@ end
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
+gem 'factory_bot_rails'
 
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
